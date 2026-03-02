@@ -5,8 +5,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iguramorim/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/igur_dev?t=hnFDqjBLR-lc-x6z6OnQlQ&s=09)
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=iguramorim&show_icons=true&theme=radical)
-
 ## Tecnologias que eu estou estudando no momento
 
 <div style="display: inline_block"><br/>
